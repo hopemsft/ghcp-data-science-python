@@ -13,6 +13,8 @@ diabetes.csv is originally from the National Institute of Diabetes and Digestive
 
 The objective of this project is to build a decision tree classifier based on Scikit-learn and Python. The classifier should be able to predict whether a patient has diabetes or not based on certain diagnostic measurements included in the dataset.
 
+Please use virtual environment
+
 
 ### 1. Importing Required libraries to build a decsion tree classifier
 
