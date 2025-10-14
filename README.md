@@ -50,32 +50,32 @@
 
 ### 7. Conclusion
 
-
+-----------------------------------------------------------------------------------
 
 ### 📌 Example Prompt for GitHub Copilot
-Please help me build this workspace to use with GitHub Copilot.
+    Please help me build this workspace to use with GitHub Copilot.
 
-@workspace /newNotebook
-Please create a new notebook named "Diabetes Tree Classifier".
+    @workspace /newNotebook
+    Please create a new notebook named "Diabetes Tree Classifier".
 
-The objective of this project is to build a decision tree classifier based on Scikit-learn and Python. The classifier should predict whether a patient has diabetes based on diagnostic measurements in the dataset.
+    The objective of this project is to build a decision tree classifier based on Scikit-learn and Python. The classifier should predict whether a patient has diabetes based on diagnostic measurements in the dataset.
 
-Steps to include:
-1. Import required libraries for building a decision tree classifier.
-2. Load the dataset (diabetes.csv).
-3. Perform Exploratory Data Analysis:
-   - Display first 5 rows
-   - Show shape of the dataframe
-   - Check data types
-   - Count missing values
-   - Count unique values
-4. Feature Selection:
-   - Split data into features and target variable
-   - Split into training and testing sets
-5. Build the Decision Tree Classifier:
-   - Instantiate `DecisionTreeClassifier`
-   - Fit the model
-   - Predict test labels
-   - Evaluate the model
-6. Visualize the Decision Tree
-7. Provide a conclusion
+    Steps to include:
+    1. Import required libraries for building a decision tree classifier.
+    2. Load the dataset (diabetes.csv).
+    3. Perform Exploratory Data Analysis:
+    - Display first 5 rows
+    - Show shape of the dataframe
+    - Check data types
+    - Count missing values
+    - Count unique values
+    4. Feature Selection:
+    - Split data into features and target variable
+    - Split into training and testing sets
+    5. Build the Decision Tree Classifier:
+    - Instantiate `DecisionTreeClassifier`
+    - Fit the model
+    - Predict test labels
+    - Evaluate the model
+    6. Visualize the Decision Tree
+    7. Provide a conclusion
