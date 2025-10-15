@@ -47,8 +47,6 @@ Please use virtual environment
 -----------------------------------------------------------------------------------
 
 ### 📌 Example Prompt for GitHub Copilot
-    Please help me build this workspace to use with GitHub Copilot.
-
     @workspace /newNotebook
     Please create a new notebook named "Diabetes Tree Classifier".
 
